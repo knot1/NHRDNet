@@ -21,4 +21,3 @@ NHRDNet achieves state-of-the-art performance on benchmark datasets (UBFC-rPPG, 
 - **Robust to Noise**: Specialized modules for background/ motion noise suppression, stable performance in real-world scenarios.
 - **Full Reproducibility**: Complete training/evaluation code, pre-trained weights, and dataset processing scripts.
 
-## 📁 Repository Structure
